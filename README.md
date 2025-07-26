@@ -1,5 +1,10 @@
 # Toyota Corolla – Fuel Dashboard (2020–2024)
 
+<p align="center">
+  <img src="DahsboardGIF.gif" alt="Dashboard demo" width="900">
+</p>
+
+
 An interactive Excel dashboard (with VBA) built from my refueling logs.  
 I exported the data from the **Fuelio** app (PDF), converted it to a table with **Python**, cleaned it, and calculated real consumption between full fill‑ups. The results match the car’s onboard computer.
 
