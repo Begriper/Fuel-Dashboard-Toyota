@@ -1,12 +1,19 @@
 # Toyota Corolla – Fuel Dashboard (2020–2024)
 
+**275 refuelings · 7,870.82 L · €12,071.78 · 114,620 km**
+
+<p align="center">
+  <a href="Fuel_Analysis_Toyota_Corolla.xlsm">⬇️ Download the Excel dashboard (XLSM)</a>
+</p>
+
 <p align="center">
   <img src="DahsboardGIF.gif" alt="Dashboard demo" width="900">
 </p>
 
-
 An interactive Excel dashboard (with VBA) built from my refueling logs.  
 I exported the data from the **Fuelio** app (PDF), converted it to a table with **Python**, cleaned it, and calculated real consumption between full fill‑ups. The results match the car’s onboard computer.
+
+**Skills (used here):** Excel (Pivot Tables, charts), VBA (UI/navigation), Python (pandas ETL & interpolation)
 
 ## What it includes
 - **Refuelings**, **Volume [L]**, **Costs [€]**, **Price €/L**, **€/km**, **Distance**, and time trends.
